@@ -1,0 +1,9 @@
+{
+  "name": "silentsignals-api",
+  "version": "1.0.0",
+  "description": "Backend API for SilentSignals",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {}
+}

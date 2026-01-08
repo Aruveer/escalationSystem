@@ -1,0 +1,7 @@
+{
+  "name": "SilentSignals Web Client",
+  "description": "A safety check-in application with a 3-step smart escalation system. Features a calm UI, subtle alerts, and a robust state machine for handling safety checks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
